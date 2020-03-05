@@ -128,119 +128,35 @@ TapAttend ™ is made to cater to the Educational Institution and People belongi
 
 1. Colleges/Universities: This new method of attendance-taking is relatively inexpensive and records can be stored for as long as the School sees fit without physically taking up space. 
 
- 
 
 ### Participants
 
- 
-
- 
-
 Person
-
- 
-
 Org.
-
- 
-
 Contact
-
- 
-
 Role and Contribution
-
- 
-
 CEG4912-13 Liaison
 
  
 
 Jamar Mitchell
-
- 
-
- 
-
- 
-
 jmitc008@uottawa.ca
-
- 
-
- 
-
 Mobile Application
 
  
-
- 
-
- 
-
 Elijah Balogun
-
- 
-
- 
-
- 
-
 ebalo061@uottawa.ca
-
- 
-
 Website – Back end
 
- 
-
- 
-
- 
-
 Oluwatobiloba Situ
-
- 
-
- 
-
- 
-
 tsitu014@uottawa.ca
-
- 
-
 Website – Front end
 
- 
-
- 
-
- 
-
 Izore Omorodion
-
- 
-
- 
-
- 
-
 iomor067@uottawa.ca,
-
- 
-
- 
-
 Hardware
 
- 
-
- 
-
 Table 2: Project Participants
-
- 
 
 ### Market Space and Industry Sector
 
